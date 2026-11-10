@@ -90,4 +90,4 @@ Create the `screenshots/` folder and add the images when you capture them. The f
 
 ## Author
 
-Add your name, course, institution, and project date here.
+Amir Hossein Khoddam - contribute ah.kh.dr.mh@gmail.com 
